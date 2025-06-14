@@ -40,7 +40,7 @@ npm run build
 
 ## Credits
 
-- Game Design and Development: [@regiofaissal]
+- Game Design and Development: [regiofaissal]
 - Sound Effects: Various artists
 - Background Music: Seth Makes Sounds
 
